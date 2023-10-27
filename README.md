@@ -1,7 +1,9 @@
 # Demographic-and-economic-analysis-of-european-countries
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/10be95d4-10cb-4317-9c13-e3d8e90312ca)
 The gapminder data frames used in analysis include six variables:
+
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/c64fde38-56d8-4904-bb21-d625cdc96ea1)
+
 Per-capita GDP (Gross domestic product) is given in units of international dollars, “a hypothetical unit of currency that has the same purchasing power parity that the U.S. dollar had in the United States at a given point in time” – 2005, in this case.
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/a0f4b2a2-834a-4e69-85be-d08a08403276)
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/8be798ba-d1a5-456b-ac67-b9a9535bc243)
