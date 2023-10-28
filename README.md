@@ -20,8 +20,6 @@ Per-capita GDP (Gross domestic product) is given in units of international dolla
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/55d86746-8eef-4b04-9772-d62213e75a39)
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/0e566919-837d-4553-92a5-b73089ceb054)
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/9ecf4e30-7269-4145-983c-051c6d1a43d6)
-![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/b1368480-9020-46f3-ac1a-c671d85761e9)
-![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/939881ab-771f-4fc1-92b2-42a14b8d23e7)
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/17a64787-bf2d-4c83-961d-ddc6de0b0d7e)
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/052ecbba-3914-4d3d-8335-dcfe6d56b96d)
 ![image](https://github.com/klaudiasolek/Demographic-and-economic-analysis-of-european-countries/assets/146526586/075b5c33-fd8c-4283-b1ee-2b2f8fee26a5)
