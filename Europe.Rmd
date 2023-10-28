@@ -114,13 +114,6 @@ plot(Greece$year,Greece$gdpPercap, type = "l", lty = 1, lwd = 3, col = "deeppink
                col=c("deeppink", "darkblue", "green4"), lty = 1)
 ```
 
-# A bar chart comparing the GDP of Greece, Hungary and Bosnia and Herzegovina
-
-```{r}
-ggplot(E2007, aes(x = year, y = gdpPercap, fill = country)) +
-  geom_col(colour = "black") +
-  scale_fill_brewer(palette = "Pastel1")
-```
 
 # A chart showing GDP and population levels in european countries in 2007
 
